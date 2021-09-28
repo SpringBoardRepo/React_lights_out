@@ -1,0 +1,15 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: rgb(247, 173, 144);
+
+  cursor: pointer;
+}
+
+.Cell-lit {
+  height: 100px;
+  width: 100px;
+  background-size: contain;
+  background-image: url("https://w7.pngwing.com/pngs/685/598/png-transparent-lighted-bulb-incandescent-light-bulb-drawing-cartoon-light-bulb-hand-smiley-lamp-thumbnail.png");
+}

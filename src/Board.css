@@ -1,0 +1,9 @@
+.Board-table {
+  margin: 50px auto;
+  background-color: rgb(147, 230, 225);
+}
+
+.title {
+  font-family: cursive;
+  color: darkblue;
+}
